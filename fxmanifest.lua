@@ -3,6 +3,8 @@ game 'gta5'
 version '2.0.0'
 lua54 'yes'
 
+-- QBUS VERSION
+
 ui_page 'nui/index.html'
 files {
     'nui/**'
