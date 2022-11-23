@@ -1,3 +1,6 @@
+### About
+Ks Peds is a script created in 2022 for esx and qb, it allows you to manage ingame peds with a nice UI and a clean and simple code, to get the version of your framework go to the "releases" section.
+
 ### INSTALATION 🚀
 
 Run the insert.sql in your database
