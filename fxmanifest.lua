@@ -1,7 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
-version '2.0.1'
 lua54 'yes'
+
+author 'Kilichi'
+description 'It allows you to manage ingame peds with a nice UI and a clean and simple code.'
+repository 'https://github.com/Kilichi/ks_peds'
+version '2.0.1'
 
 -- ESX VERSION
 
