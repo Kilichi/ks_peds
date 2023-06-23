@@ -1,16 +1,4 @@
-ESX = nil
-Citizen.CreateThread(
-    function()
-        while ESX == nil do
-            TriggerEvent('esx:getSharedObject',
-                function(core)
-                    ESX = core
-                end
-            )
-        end
-        Playerdata = {}
-    end
-)
+ESX = exports["es_extended"]:getSharedObject()
 
 RegisterNetEvent('ks_peds:client:openMenu',
     function(peds, name)
